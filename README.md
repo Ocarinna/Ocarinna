@@ -75,12 +75,12 @@ Script para automatizar geração e organização de relatórios operacionais.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ocarinna&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocarinna&layout=compact&theme=tokyonight"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Ocarinna&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocarinna&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Ocarinna&theme=tokyonight"/>
+  <img width="400" src="https://streak-stats.demolab.com?user=Ocarinna&theme=tokyonight"/>
 </p>
 
 ---
