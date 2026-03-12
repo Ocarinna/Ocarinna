@@ -1,83 +1,108 @@
-# 👩🏻‍💻 Vicente Almeida
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Python-green?style=for-the-badge)
 
-**`Desenvolvedor Python`**
+# 👨‍💻 Gustavo Vicente Henrique Almeida
 
-Me chamo Gustavo Vicente Henrique Almeida, tenho 28 anos e nascido e criado na Capital do estado de São Paulo.
+🚀 Desenvolvedor Python | Automação | Análise de Dados  
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/Ocarinna?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Ocarinna?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Ocarinna?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Ocarinna?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+Sou apaixonado por tecnologia e desenvolvimento de soluções que automatizam tarefas e melhoram processos.
+
+Atualmente trabalho com **análise técnica e monitoramento de operações**, onde utilizo ferramentas como **Excel, SQL e scripts de automação** para gerar relatórios, analisar indicadores e otimizar rotinas.
+
+📍 São Paulo - Brasil  
+
+---
+
+# 🧠 Tecnologias e Ferramentas
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+</p>
+
+✔ Python  
+✔ SQL  
+✔ Excel / Automação de dados  
+✔ HTML e CSS  
+✔ Lógica de programação  
+
+---
+
+# 🚀 Projetos
+
+### 🎮 Jogo de Aventura em Python
+Sistema de batalha baseado em turnos com cenários e inimigos únicos.
+
+**Tecnologias:**
+- Python
+- Estrutura de dados
+- Lógica de combate
+
+🔗 Repositório: [*(link do projeto)*](https://github.com/Ocarinna/Terminal-Adventure)
+
+---
+
+### 📊 Script de Monitoramento de Rede
+Script que realiza **ping em múltiplos hosts**, retornando **status, hostname e resultados exportados para CSV**.
+
+**Tecnologias:**
+- Python
+- Automação
+- Monitoramento de rede
+
+🔗 Repositório: *(link do projeto)*
+
+---
+
+### ⚙️ Automação de Relatórios
+Script para automatizar geração e organização de relatórios operacionais.
+
+**Tecnologias:**
+- Python
+- Manipulação de arquivos
+- Automação
+
+🔗 Repositório: *(link do projeto)*
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p>
+
+<img 
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=Ocarinna&show_icons=true&theme=tokyonight"
+/>
+
+<img 
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocarinna&layout=compact&theme=tokyonight"
+/>
+
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 📚 Atualmente estudando
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- Python avançado
+- Estrutura de dados
+- Automação de processos
+- Desenvolvimento de aplicações
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+# 📬 Contato
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ocarinna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+💼 GitHub: https://github.com/Ocarinna
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocarinna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+⭐ Sempre buscando aprender mais e evoluir como desenvolvedor.
