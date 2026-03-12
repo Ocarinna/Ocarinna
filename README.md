@@ -94,6 +94,12 @@ Script para automatizar geração e organização de relatórios operacionais.
 
 ---
 
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/Ocarinna/Ocarinna/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # 📬 Contato
 
 💼 GitHub: https://github.com/Ocarinna
